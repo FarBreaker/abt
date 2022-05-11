@@ -1,0 +1,15 @@
+{
+  "name": "alibi-branching-tracker-be",
+  "version": "0.0.1",
+  "description": "NodeJS BE env for the branching tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lorenzo Ciani (Alibi)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "shelljs": "^0.8.5"
+  }
+}
